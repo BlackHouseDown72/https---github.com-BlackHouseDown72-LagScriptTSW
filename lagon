@@ -1,0 +1,12 @@
+/setoption AudioSystemOnOff true
+/setoption SpellEffect_DisplayLevel 0
+/setoption RenderControl_TextureDetail 3
+/setoption RenderSetting_HighQualityNPCRange 50.000000
+/setoption RenderSetting_AnimationLODRange 60
+/setoption RenderSetting_ViewDistance 500
+/setoption ShowBuffsOnTarget true
+/setoption Show3DDamageText true
+/setoption Show3DDamageTextPlayerDamage true
+/setoption Show3DDamageTextPlayerHeal true
+/setoption ShowVicinityPlayerNametags false
+/reloadui
